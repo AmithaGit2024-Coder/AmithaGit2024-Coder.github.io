@@ -6,3 +6,6 @@ This repository is built step by step in the tutorial.
 
 
 Adding a line here to chec how commit works in GitHub
+
+
+**Making another change here to check how pull command works"
